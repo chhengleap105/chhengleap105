@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi 👋, I'm Leang Chhengleap
 
-<!--
-**chhengleap105/chhengleap105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning new technologies
+- 🚀 Building web applications
+- 📫 Contact: leangchhengleap073@gmail.com
+
+## Skills
+
+- HTML & CSS
+- JavaScript
+- React
+- Next.js
+- Java & Spring Boot
